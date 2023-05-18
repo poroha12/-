@@ -1,2 +1,3 @@
-# -
-설명
+mkdir helloworld
+cd helloworld
+git init
