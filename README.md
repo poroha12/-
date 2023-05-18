@@ -1,7 +1,10 @@
-mkdir helloworld
-cd helloworld
-git init
-
-git add hello.html
-git commit -m "new file"
-git status
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>hello</title>
+  </head>
+  <body>
+    Hello, world!
+  </body>
+  </html>
